@@ -1,4 +1,4 @@
-**Implement both the below tasks in a single .py file (use python version 3)**
+**Only 1 .py file should be created, containing the solution to both the questions below. Use python version 3**
 
   a) Print the current date and time at the start of the program *(hint: use the datetime library and search the internet)* 
   
